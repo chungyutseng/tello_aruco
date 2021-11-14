@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="tello_aruco" type="tello_detect.py" name="tello_detect" output="screen"/>
+    <node name="record_topics_for_verification" pkg="rosbag" type="record"
+        args="record -o pose /x /y /z /roll /pitch /yaw"/>
+</launch>
