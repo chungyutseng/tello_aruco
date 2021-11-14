@@ -10,6 +10,9 @@ from std_msgs.msg import Float32
 from sensor_msgs.msg import CompressedImage
 import ffff
 xxx
+
+
+ggggggggg
 # for taking pictures
 # imag_counter = 0
 
