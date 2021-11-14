@@ -8,6 +8,7 @@ import cv2.aruco as aruco
 import math
 from std_msgs.msg import Float32
 from sensor_msgs.msg import CompressedImage
+import ffff
 
 # for taking pictures
 # imag_counter = 0
