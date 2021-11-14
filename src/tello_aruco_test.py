@@ -13,6 +13,8 @@ xxx
 
 
 ggggggggg
+
+lllllllllllll
 # for taking pictures
 # imag_counter = 0
 
