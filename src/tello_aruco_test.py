@@ -15,6 +15,8 @@ xxx
 ggggggggg
 
 lllllllllllll
+
+vvvvvvvvvvvvvvvvvvv
 # for taking pictures
 # imag_counter = 0
 
