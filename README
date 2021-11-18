@@ -1,0 +1,5 @@
+In this code, 
+
+the opencv function used for the pose estimation of the camera is:
+
+estimatePoseSingleMarkers()
